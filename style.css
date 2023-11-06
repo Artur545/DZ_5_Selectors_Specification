@@ -1,0 +1,35 @@
+div {
+    color: bisque;
+}
+
+body>main>section {
+    color: blueviolet;
+}
+
+#art {
+    color: chartreuse;
+}
+
+.abzac {
+    color: chocolate;
+}
+
+h5:hover {
+    color: brown;
+}
+
+body>main>mark.marker {
+    color: blue;
+}
+
+body>main>i#ioi.ii {
+    color: rgb(152, 173, 131);
+}
+
+.u, .uu {
+    color: antiquewhite;
+}
+
+body>main>p#yy.hb{
+    color: rgb(38, 165, 26);
+}
